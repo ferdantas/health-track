@@ -1,0 +1,106 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.circle {
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+}
+
+.graphy-recommended {
+  background: #FF6B00;
+  height: 180px;
+  border-radius: 8px;
+}
+.graphy-breakfast {
+  background: #FFBE8E;
+  height: 51px;
+  border-radius: 8px;
+}
+.breakfast-circle {
+  background: #FFBE8E;
+}
+.graphy-morning-snack {
+  background: #FFED8E;
+  height: 11px;
+  border-radius: 8px;
+}
+.morning-snack-circle {
+  background: #FFED8E;
+}
+.graphy-launch {
+  background: #74F3D5C7;
+  height: 40px;
+  border-radius: 8px;
+}
+.launch-circle {
+  background: #74F3D5C7;
+}
+.graphy-meed-snack {
+  background: #8EE4FF;
+  height: 15px;
+  border-radius: 8px;
+}
+.meed-snack-circle {
+  background: #8EE4FF;
+}
+.graphy-dinner {
+  background: #B28EFF;
+  height: 21px;
+  border-radius: 8px;
+}
+.dinner-circle {
+  background: #B28EFF;
+}
+.graphy-supper {
+  background: #FF8EF4;
+  height: 10px;
+  border-radius: 8px;
+}
+.supper-circle {
+  background: #FF8EF4;
+}
+.graphy-total {
+  background: rgba(59, 121, 54, 0.54);
+  height: 101px;
+  border-radius: 8px;
+}
+
+.info-text-graphy {
+  text-align: center;
+  width: 30px;
+}
+
+.graphy-section {
+  margin: 16px 0;
+}
+.graphy-block {
+  font-size: 0.75rem;
+  margin: 16px 0;
+  padding: 0;
+}
+
+.graphy-goal {
+  height: 180px;
+  width: 16px;
+  background: #F0F0F0;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column-reverse;
+  margin-bottom: 8px;
+}
+
+.meal {
+  width: 260px;
+}
+
+.day {
+  color: #5D6470;
+  font-size: 0.75rem;
+}
+
+.section {
+  margin-top: 16px;
+}
